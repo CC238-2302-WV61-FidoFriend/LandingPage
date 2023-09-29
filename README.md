@@ -1,1 +1,1 @@
-# LandingPage - Healthy Pets
+# LandingPage - FidoFriend
